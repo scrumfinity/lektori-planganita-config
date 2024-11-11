@@ -1,0 +1,36 @@
+{
+    "SALES_TEAMS":{
+        "Jan Nechuta": { 
+            "subordinates": [
+                "Adam Cicovsky",
+                "Dominik Koca",
+                "Martina Zvirinska",
+                "Anna Prochazkova",
+                "Daniel Pechanek",
+                "Jan Stahlovsky"
+            ]
+        },
+        "Filip Kolarik":{
+            "subordinates": [
+                "Daniel Homic",
+                "David Peyrek"
+            ]
+        },
+        "Rostislav Kostin":{
+            "subordinates": []
+        },
+        "Pavel Caitaml":{
+            "subordinates": [
+                "David Pham"
+            ]
+        }
+    },
+
+    "SALES_ADMINS":[
+        "filip.mahnert@jsmevkurzu.cz",
+        "metin.lamalari@jsmevkurzu.cz",
+        "nikolas.kalocai@jsmevkurzu.cz",
+        "daniel.seiner@jsmevkurzu.cz",
+        "daniel.pham@jsmevkurzu.cz"
+    ]
+}
