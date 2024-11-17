@@ -1,1 +1,90 @@
-{  "SALES_TEAMS": {    "jan.nechuta@jsmevkurzu.cz": {      "subordinates": [        "adam.cicovsky@jsmevkurzu.cz",        "dominik.koca@jsmevkurzu.cz",        "martina.zvirinska@jsmevkurzu.cz",        "anna.prochazkova@jsmevkurzu.cz",        "daniel.pechanek@jsmevkurzu.cz",        "jan.stahlovsky@jsmevkurzu.cz"      ]    },    "filip.kolarik@jsmevkurzu.cz": {      "subordinates": [        "daniel.homic@jsmevkurzu.cz",        "david.peyrek@jsmevkurzu.cz"      ]    },    "rostislav.kostin@jsmevkurzu.cz": { "subordinates": [] },    "pavel.caitaml@jsmevkurzu.cz": {      "subordinates": ["david.pham@jsmevkurzu.cz"]    },    "daniel.pham@jsmevkurzu.cz": {      "subordinates": [        "adam.cicovsky@jsmevkurzu.cz",        "dominik.koca@jsmevkurzu.cz",        "martina.zvirinska@jsmevkurzu.cz",        "anna.prochazkova@jsmevkurzu.cz",        "daniel.pechanek@jsmevkurzu.cz",        "jan.stahlovsky@jsmevkurzu.cz"      ]    }  },  "SALES_ADMINS": [    "filip.mahnert@jsmevkurzu.cz",    "metin.lamalari@jsmevkurzu.cz",    "nikolas.kalocai@jsmevkurzu.cz",    "daniel.seiner@jsmevkurzu.cz"  ]} 
+{
+    "SALES_TEAMS": {
+        "jan.nechuta@jsmevkurzu.cz": {
+            "subordinates": [
+                "adam.cicovsky@jsmevkurzu.cz",
+                "dominik.koca@jsmevkurzu.cz",
+                "martina.zvirinska@jsmevkurzu.cz",
+                "anna.prochazkova@jsmevkurzu.cz",
+                "daniel.pechanek@jsmevkurzu.cz",
+                "jan.stahlovsky@jsmevkurzu.cz"
+            ]
+        },
+        "filip.kolarik@jsmevkurzu.cz": {
+            "subordinates": [
+                "daniel.homic@jsmevkurzu.cz",
+                "david.peyrek@jsmevkurzu.cz"
+            ]
+        },
+        "rostislav.kostin@jsmevkurzu.cz": {
+            "subordinates": []
+        },
+        "pavel.caitaml@jsmevkurzu.cz": {
+            "subordinates": [
+                "david.pham@jsmevkurzu.cz"
+            ]
+        },
+        "daniel.pham@jsmevkurzu.cz": {
+            "subordinates": [
+                "adam.cicovsky@jsmevkurzu.cz",
+                "dominik.koca@jsmevkurzu.cz",
+                "martina.zvirinska@jsmevkurzu.cz",
+                "anna.prochazkova@jsmevkurzu.cz",
+                "daniel.pechanek@jsmevkurzu.cz",
+                "jan.stahlovsky@jsmevkurzu.cz"
+            ]
+        }
+    },
+    "SALES_ADMINS": [
+        "filip.mahnert@jsmevkurzu.cz",
+        "metin.lamalari@jsmevkurzu.cz",
+        "nikolas.kalocai@jsmevkurzu.cz",
+        "daniel.seiner@jsmevkurzu.cz"
+    ],
+    "LEKTORS":{
+        "lukas.sigut@jsmevkurzu.cz": "21426970",
+        "filip.mahnert@jsmevkurzu.cz": "21426971",
+        "dominik.cermak@jsmevkurzu.cz": "21426972",
+        "michaela.adamkova@jsmevkurzu.cz": "21426973",
+        "michael.horsky@jsmevkurzu.cz": "21426974",
+        "miroslav.horvath@jsmevkurzu.cz": "21426975",
+        "pavel.caitaml@jsmevkurzu.cz": "21426976",
+        "vlastimil.vlk@jsmevkurzu.cz": "21426977",
+        "jakub.zajic@jsmevkurzu.cz": "21426978",
+        "zdenek.sedmak@jsmevkurzu.cz": "21426979",
+        "tomas.ivanco@jsmevkurzu.cz": "21426980",
+        "anna.prochazkova@jsmevkurzu.cz": "21426981",
+        "jan.port@jsmevkurzu.cz": "21426982",
+        "jan.brych@jsmevkurzu.cz": "21426983",
+        "adam.konrady@jsmevkurzu.cz": "21426984",
+        "klient@bubbledevelopment.cz": "21426985",
+        "jakub.libal@jsmevkurzu.cz": "21426986",
+        "daniel.seiner@jsmevkurzu.cz": "21426987",
+        "eva.coprivova@jsmevkurzu.cz": "21426988",
+        "patrik.zendeli@jsmevkurzu.cz": "21426989",
+        "martina.schiekova@jsmevkurzu.cz": "21426990",
+        "petra.strnadova@jsmevkurzu.cz": "21426991",
+        "vladimir.cruz@jsmevkurzu.cz": "21426992",
+        "tereza.ostrowska@jsmevkurzu.cz": "21426993",
+        "lenka.svobodova@jsmevkurzu.cz": "21426994",
+        "adam.chytil@jsmevkurzu.cz": "21426995",
+        "patrick.zamyslicky@jsmevkurzu.cz": "21426996",
+        "petr.krob@jsmevkurzu.cz": "21426997",
+        "martin.hauk@jsmevkurzu.cz": "21426998",
+        "jan.janik@jsmevkurzu.cz": "21426999",
+        "david.pham@jsmevkurzu.cz": "21427000",
+        "adela.juvova@jsmevkurzu.cz": "21427001",
+        "matous.cizek@jsmevkurzu.cz": "21427002",
+        "vitek.horak@jsmevkurzu.cz": "21427003",
+        "jan.kral@jsmevkurzu.cz": "21427004",
+        "jan.mrzilek@jsmevkurzu.cz": "21427005",
+        "adnan.abazi@jsmevkurzu.cz": "21427006",
+        "krystof.strnad@jsmevkurzu.cz": "21427007",
+        "jan.stahlovsky@jsmevkurzu.cz": "21427008",
+        "pavel.kruml@jsmevkurzu.cz": "21427009",
+        "daniel.pechanek@jsmevkurzu.cz": "21427010",
+        "martin.lukes@jsmevkurzu.cz": "21427011",
+        "zaneta.masopustova@jsmevkurzu.cz": "21427012",
+        "jan.rokos@jsmevkurzu.cz": "21427013"
+    }
+}
