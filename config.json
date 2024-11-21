@@ -16,6 +16,11 @@
                 "david.peyrek@jsmevkurzu.cz"
             ]
         },
+        "matous.cizek@jsmevkurzu.cz":{
+            "subordinates": [
+                "monika.cizkova@jsmevkurzu.cz",
+            ]
+        },
         "rostislav.kostin@jsmevkurzu.cz": {
             "subordinates": []
         },
