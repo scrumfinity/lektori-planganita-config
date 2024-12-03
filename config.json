@@ -29,23 +29,24 @@
                 "david.pham@jsmevkurzu.cz"
             ]
         },
-        "daniel.pham@jsmevkurzu.cz": {
+        "patricie.junkova@jsmevkurzu.cz": {
             "subordinates": [
-                "adam.cicovsky@jsmevkurzu.cz",
-                "dominik.koca@jsmevkurzu.cz",
-                "martina.zvirinska@jsmevkurzu.cz",
-                "anna.prochazkova@jsmevkurzu.cz",
-                "daniel.pechanek@jsmevkurzu.cz",
-                "jan.stahlovsky@jsmevkurzu.cz"
+                "claudia.chadim@jsmevkurzu.cz",
+                "vaclav.vesely@jsmevkurzu.cz",
+                "sona.topicova@jsmevkurzu.cz",
+                "vanda.petrzilkova@jsmevkurzu.cz",
+                "katerina.menclova@jsmevkurzu.cz",
+                "renata.froschova@jsmevkurzu.cz"
             ]
-        }
+        } 
     },
     "SALES_ADMINS": [
         "filip.mahnert@jsmevkurzu.cz",
         "metin.lamalari@jsmevkurzu.cz",
         "nikolas.kalocai@jsmevkurzu.cz",
         "daniel.seiner@jsmevkurzu.cz",
-        "barbora.baierova@jsmevkurzu.cz"
+        "barbora.baierova@jsmevkurzu.cz",
+        "daniel.pham@jsmevkurzu.cz"
     ],
     "LEKTORS":{
         "lukas.sigut@jsmevkurzu.cz": "21426970",
