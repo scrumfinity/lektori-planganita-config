@@ -48,50 +48,414 @@
         "barbora.baierova@jsmevkurzu.cz",
         "daniel.pham@jsmevkurzu.cz"
     ],
-    "LEKTORS":{
-        "lukas.sigut@jsmevkurzu.cz": "21426970",
-        "filip.mahnert@jsmevkurzu.cz": "21426971",
-        "dominik.cermak@jsmevkurzu.cz": "21426972",
-        "michaela.adamkova@jsmevkurzu.cz": "21426973",
-        "michael.horsky@jsmevkurzu.cz": "21426974",
-        "miroslav.horvath@jsmevkurzu.cz": "21426975",
-        "pavel.caitaml@jsmevkurzu.cz": "21426976",
-        "vlastimil.vlk@jsmevkurzu.cz": "21426977",
-        "jakub.zajic@jsmevkurzu.cz": "21426978",
-        "zdenek.sedmak@jsmevkurzu.cz": "21426979",
-        "tomas.ivanco@jsmevkurzu.cz": "21426980",
-        "anna.prochazkova@jsmevkurzu.cz": "21426981",
-        "jan.port@jsmevkurzu.cz": "21426982",
-        "jan.brych@jsmevkurzu.cz": "21426983",
-        "adam.konrady@jsmevkurzu.cz": "21426984",
-        "klient@bubbledevelopment.cz": "21426985",
-        "jakub.libal@jsmevkurzu.cz": "21426986",
-        "daniel.seiner@jsmevkurzu.cz": "21426987",
-        "eva.coprivova@jsmevkurzu.cz": "21426988",
-        "patrik.zendeli@jsmevkurzu.cz": "21426989",
-        "martina.schiekova@jsmevkurzu.cz": "21426990",
-        "petra.strnadova@jsmevkurzu.cz": "21426991",
-        "vladimir.cruz@jsmevkurzu.cz": "21426992",
-        "tereza.ostrowska@jsmevkurzu.cz": "21426993",
-        "lenka.svobodova@jsmevkurzu.cz": "21426994",
-        "adam.chytil@jsmevkurzu.cz": "21426995",
-        "patrick.zamyslicky@jsmevkurzu.cz": "21426996",
-        "petr.krob@jsmevkurzu.cz": "21426997",
-        "martin.hauk@jsmevkurzu.cz": "21426998",
-        "jan.janik@jsmevkurzu.cz": "21426999",
-        "david.pham@jsmevkurzu.cz": "21427000",
-        "adela.juvova@jsmevkurzu.cz": "21427001",
-        "matous.cizek@jsmevkurzu.cz": "21427002",
-        "vitek.horak@jsmevkurzu.cz": "21427003",
-        "jan.kral@jsmevkurzu.cz": "21427004",
-        "jan.mrzilek@jsmevkurzu.cz": "21427005",
-        "adnan.abazi@jsmevkurzu.cz": "21427006",
-        "krystof.strnad@jsmevkurzu.cz": "21427007",
-        "jan.stahlovsky@jsmevkurzu.cz": "21427008",
-        "pavel.kruml@jsmevkurzu.cz": "21427009",
-        "daniel.pechanek@jsmevkurzu.cz": "21427010",
-        "martin.lukes@jsmevkurzu.cz": "21427011",
-        "zaneta.masopustova@jsmevkurzu.cz": "21427012",
-        "jan.rokos@jsmevkurzu.cz": "21427013"
-    }
+    "LECTORS": [
+      {
+          "firstName": "Michaela",
+          "lastName": "Adámková",
+          "city": "Beroun",
+          "region": "Středočeský kraj",
+          "email": "michaela.adamkova@jsmevkurzu.cz",
+          "active": true
+      },
+      {
+          "firstName": "David",
+          "lastName": "Bielesz",
+          "city": "Český Těšín",
+          "region": "Moravskoslezský kraj",
+          "email": "david.bielesz@jsmevkurzu.cz",
+          "active": true
+      },
+      {
+          "firstName": "Jan",
+          "lastName": "Brych",
+          "city": "Osek",
+          "region": "Ústecký kraj",
+          "email": "jan.brych@jsmevkurzu.cz",
+          "active": true
+      },
+      {
+          "firstName": "Pavel",
+          "lastName": "Caitaml",
+          "city": "Teplice",
+          "region": "Ústecký kraj",
+          "email": "pavel.caitaml@jsmevkurzu.cz",
+          "active": true
+      },
+      {
+          "firstName": "Eva",
+          "lastName": "Coprivová",
+          "city": "Ústí nad Labem",
+          "region": "Ústecký kraj",
+          "email": "eva.coprivova@jsmevkurzu.cz",
+          "active": true
+      },
+      {
+          "firstName": "Vladimír",
+          "lastName": "Cruz",
+          "city": "Praha",
+          "region": "Hlavní město Praha",
+          "email": "vladimir.cruz@jsmevkurzu.cz",
+          "active": true
+      },
+      {
+          "firstName": "Dominik",
+          "lastName": "Čermák",
+          "city": "",
+          "region": "",
+          "email": "dominik.cermak@jsmevkurzu.cz",
+          "active": false
+      },
+      {
+          "firstName": "Dominik",
+          "lastName": "Čermák",
+          "city": "Ústí nad Labem",
+          "region": "Ústecký kraj",
+          "email": "dominik.cermak@jsmevkurzu.cz",
+          "active": false
+      },
+      {
+          "firstName": "Matouš",
+          "lastName": "Čížek",
+          "city": "Plzeň",
+          "region": "Plzeňský kraj",
+          "email": "matous.cizek@jsmevkurzu.cz",
+          "active": false
+      },
+      {
+          "firstName": "Pavel",
+          "lastName": "Dobai",
+          "city": "",
+          "region": "",
+          "email": "pavel.dobai@jsmevkurzu.cz",
+          "active": false
+      },
+      {
+          "firstName": "Miroslav",
+          "lastName": "Giňa",
+          "city": "Rokycany",
+          "region": "Plzeňský kraj",
+          "email": "miroslav.gina@jsmevkurzu.cz",
+          "active": false
+      },
+      {
+          "firstName": "Martin",
+          "lastName": "Hauk",
+          "city": "Šumperk",
+          "region": "Olomoucký kraj",
+          "email": "martin.hauk@jsmevkurzu.cz",
+          "active": false
+      },
+      {
+          "firstName": "Michal",
+          "lastName": "Holada",
+          "city": "Liberec",
+          "region": "Liberecký kraj",
+          "email": "michal.holada@jsmevkurzu.cz",
+          "active": false
+      },
+      {
+          "firstName": "Vítek",
+          "lastName": "Horák",
+          "city": "Rumburk",
+          "region": "Ústecký kraj",
+          "email": "vitek.horak@jsmevkurzu.cz",
+          "active": true
+      },
+      {
+          "firstName": "Michael",
+          "lastName": "Horský",
+          "city": "Ústí nad Labem",
+          "region": "Ústecký kraj",
+          "email": "michael.horsky@jsmevkurzu.cz",
+          "active": true
+      },
+      {
+          "firstName": "Miroslav",
+          "lastName": "Horváth",
+          "city": "Ústí nad Labem",
+          "region": "Ústecký kraj",
+          "email": "miroslav.horvath@jsmevkurzu.cz",
+          "active": true
+      },
+      {
+          "firstName": "Tomáš",
+          "lastName": "Ivančo",
+          "city": "",
+          "region": "",
+          "email": "tomas.ivanco@jsmevkurzu.cz",
+          "active": false
+      },
+      {
+          "firstName": "Kristýna",
+          "lastName": "Jackevyčová",
+          "city": "Teplice",
+          "region": "Ústecký kraj",
+          "email": "kristyna.jackevycova@jsmevkurzu.cz",
+          "active": true
+      },
+      {
+          "firstName": "Jan",
+          "lastName": "Janík",
+          "city": "Ústí nad Labem",
+          "region": "Ústecký kraj",
+          "email": "jan.janik@jsmevkurzu.cz",
+          "active": true
+      },
+      {
+          "firstName": "Jitka",
+          "LastName": "Jindrová",
+          "city": "České Budějovice",
+          "region": "Jihočeský kraj",
+          "email": "jitka.jindrova@jsmevkurzu.cz",
+          "active": true
+      },
+      {
+          "firstName": "Jan",
+          "lastName": "Julina",
+          "city": "Praha",
+          "region": "Hlavní město Praha",
+          "email": "jan.julina@jsmevkurzu.cz",
+          "active": false
+      },
+      {
+          "firstName": "Adéla",
+          "lastName": "Jůvová",
+          "city": "",
+          "region": "",
+          "email": "adela.juvova@jsmevkurzu.cz",
+          "active": false
+      },
+      {
+          "firstName": "Anežka",
+          "lastName": "Kalašová",
+          "city": "Podbořany",
+          "region": "Ústecký kraj",
+          "email": "anezka.kalasova@jsmevkurzu.cz",
+          "active": false
+      },
+      {
+          "firstName": "Adam",
+          "lastName": "Konrády",
+          "city": "Teplice",
+          "region": "Ústecký kraj",
+          "email": "adam.konrady@jsmevkurzu.cz",
+          "active": true
+      },
+      {
+          "firstName": "Jan",
+          "lastName": "Král",
+          "city": "Cheb",
+          "region": "Karlovarský kraj",
+          "email": "jan.kral@jsmevkurzu.cz",
+          "active": false
+      },
+      {
+          "firstName": "Matěj",
+          "lastName": "Královec",
+          "city": "Praha",
+          "region": "Hlavní město Praha",
+          "email": "matej.kralovec@jsmevkurzu.cz",
+          "active": true
+      },
+      {
+          "firstName": "Petr",
+          "lastName": "Krob",
+          "city": "Plzeň",
+          "region": "Plzeňský kraj",
+          "email": "petr.krob@jsmevkurzu.cz",
+          "active": true
+      },
+      {
+          "firstName": "Pavel",
+          "lastName": "Kruml",
+          "city": "",
+          "region": "",
+          "email": "pavel.kruml@jsmevkurzu.cz",
+          "active": false
+      },
+      {
+          "firstName": "Jan",
+          "lastName": "Mrzílek",
+          "city": "",
+          "region": "",
+          "email": "jan.mrzilek@jsmevkurzu.cz",
+          "active": false
+      },
+      {
+          "firstName": "Jan",
+          "lastName": "Mrzílek",
+          "city": "Praha",
+          "region": "Hlavní město Praha",
+          "email": "jan.mrzilek@jsmevkurzu.cz",
+          "active": false
+      },
+      {
+          "firstName": "Tereza",
+          "lastName": "Ostrowská",
+          "city": "Ústí nad Labem",
+          "region": "Ústecký kraj",
+          "email": "tereza.ostrowska@jsmevkurzu.cz",
+          "active": false
+      },
+      {
+          "firstName": "Miroslav",
+          "lastName": "Papež",
+          "city": "Zbiroh",
+          "region": "Plzeňský kraj",
+          "email": "miroslav.papez@jsmevkurzu.cz",
+          "active": false
+      },
+      {
+          "firstName": "Daniel",
+          "lastName": "Pechánek",
+          "city": "Teplice",
+          "region": "Ústecký kraj",
+          "email": "daniel.pechanek@jsmevkurzu.cz",
+          "active": true
+      },
+      {
+          "firstName": "David",
+          "lastName": "Pham",
+          "city": "",
+          "region": "",
+          "email": "david.pham@jsmevkurzu.cz",
+          "active": false
+      },
+      {
+          "firstName": "Anna",
+          "lastName": "Procházková",
+          "city": "Bílina",
+          "region": "Ústecký kraj",
+          "email": "anna.prochazkova@jsmevkurzu.cz",
+          "active": true
+      },
+      {
+          "firstName": "Jan",
+          "lastName": "Rokos",
+          "city": ["Teplice", "Praha"],
+          "region": ["Ústecký kraj", "Hlavní město Praha"],
+          "email": "jan.rokos@jsmevkurzu.cz",
+          "active": true
+      },
+      {
+          "firstName": "Zdeněk",
+          "lastName": "Sedmák",
+          "city": "Teplice",
+          "region": "Ústecký kraj",
+          "email": "zdenek.sedmak@jsmevkurzu.cz",
+          "active": true
+      },
+      {
+          "firstName": "Martina",
+          "lastName": "Schieková",
+          "city": "Teplice",
+          "region": "Ústecký kraj",
+          "email": "martina.schiekova@jsmevkurzu.cz",
+          "active": true
+      },
+      {
+          "firstName": "Ondřej",
+          "lastName": "Soukup",
+          "city": "Teplice",
+          "region": "Ústecký kraj",
+          "email": "ondrej.soukup@jsmevkurzu.cz",
+          "active": true
+      },
+      {
+          "firstName": "Kryštof",
+          "lastName": "Strnad",
+          "city": "Šumperk",
+          "region": "Olomoucký kraj",
+          "email": "krystof.strnad@jsmevkurzu.cz",
+          "active": true
+      },
+      {
+          "firstName": "Petra",
+          "lastName": "Strnadová",
+          "city": "Šumperk",
+          "region": "Olomoucký kraj",
+          "email": "petra.strnadova@jsmevkurzu.cz",
+          "active": true
+      },
+      {
+          "firstName": "Lenka",
+          "lastName": "Svobodová",
+          "city": "Most",
+          "region": "Ústecký kraj",
+          "email": "lenka.svobodova@jsmevkurzu.cz",
+          "active": false
+      },
+      {
+          "firstName": "Jolana",
+          "lastName": "Šádková",
+          "city": "Praha",
+          "region": "Středočeský kraj",
+          "email": "jolana.sadkova@jsmevkurzu.cz",
+          "active": false
+      },
+      {
+          "firstName": "Lukáš",
+          "lastName": "Šigut",
+          "city": "Brno",
+          "region": "Jihomoravský kraj",
+          "email": "lukas.sigut@jsmevkurzu.cz",
+          "active": true
+      },
+      {
+          "firstName": "Jan",
+          "lastName": "Šťáhlovský",
+          "city": "Mariánské Lázně",
+          "region": "Karlovarský kraj",
+          "email": "jan.stahlovsky@jsmevkurzu.cz",
+          "active": true
+      },
+      {
+          "firstName": "Jonáš",
+          "lastName": "Vrobel",
+          "city": "Teplice",
+          "region": "Ústecký kraj",
+          "email": "jonas.vrobel@jsmevkurzu.cz",
+          "active": false
+      },
+      {
+          "firstName": "Lucie",
+          "lastName": "Würzová",
+          "city": "Krupka",
+          "region": "Ústecký kraj",
+          "email": "lucie.wurzova@jsmevkurzu.cz",
+          "active": false
+      },
+      {
+          "firstName": "Patrick",
+          "lastName": "Zámyslický",
+          "city": "Teplice",
+          "region": "Ústecký kraj",
+          "email": "patrick.zamyslicky@jsmevkurzu.cz",
+          "active": true
+      },
+      {
+          "firstName": "Patrik",
+          "lastName": "Zendeli",
+          "city": "Teplice",
+          "region": "Ústecký kraj",
+          "email": "patrik.zendeli@jsmevkurzu.cz",
+          "active": true
+      },
+      { 
+          "firstName": "Jan",
+          "lastName": "Zvára",
+          "city": "Plzeň",
+          "region": "Plzeňský kraj",
+          "email": "jan.zvara@jsmevkurzu.cz",
+          "active": true
+      },
+      {
+          "firstName": "Martina",
+          "lastName": "Zvirinská",
+          "city": "Kadaň",
+          "region": "Ústecký kraj",
+          "email": "martina.zvirinska@jsmevkurzu.cz",
+          "active": true
+      }
+  ]
 }
